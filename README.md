@@ -37,31 +37,31 @@ Already existing users can log in.
 
 Once logged in the user is directd to their profile which displays their user information including a placeholder image, user name, and email. The user has the options to create a new journal entry, create a new memory, view past journal entries, and view past memories.
 
-![user profile](https://github.com/NicoleDreon/bitmelon_journal/blob/main/static/img/userprofile.png)
+![user profile](https://github.com/NicoleDreon/bitmelon_journal/blob/main/static/img/user_profile.png)
 
 ### New Journal Entry
 
 To add a new journal entry select the 'create journal' button. A new entry can be made once for each unique melon in the dropdown. For the selected melon the user will log their overall rating, tasting notes, and if it is a favortie.
 
-![new journal entry](https://github.com/NicoleDreon/bitmelon_journal/blob/main/static/img/createjournal.png)
+![new journal entry](https://github.com/NicoleDreon/bitmelon_journal/blob/main/static/img/create_journal.png)
 
 ### New Memory
 
 To make a new memory select the 'new memory' button. The user can only choose from the melons that already have a journal entry. In a memory the user can log date, location, friend they were with and their memory.
 
-![new memory](https://github.com/NicoleDreon/bitmelon_journal/blob/main/static/img/creatememory.png)
+![new memory](https://github.com/NicoleDreon/bitmelon_journal/blob/main/static/img/create_memory.png)
 
 ### See Journal Entries
 
 View all journal entries
 
-![view journal entries](https://github.com/NicoleDreon/bitmelon_journal/blob/main/static/img/viewmemories.png)
+![view journal entries](https://github.com/NicoleDreon/bitmelon_journal/blob/main/static/img/journals.png)
 
 ### See Memories
 
 View all melon memories.
 
-![view memories](https://github.com/NicoleDreon/bitmelon_journal/blob/main/static/img/viewmemories.png)
+![view memories](https://github.com/NicoleDreon/bitmelon_journal/blob/main/static/img/memories.png)
 
 ### See Our Melons
 
